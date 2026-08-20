@@ -13,7 +13,7 @@ if not BOT_TOKEN:
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ============================================================
-# ✅ TERI SETTINGS (YAHAN KUCH NAHI BADALNA)
+# ✅ TERI SETTINGS
 # ============================================================
 PUBLIC_CHANNEL = "@admsfss"
 JOIN_LINK = "https://t.me/admsfss"
